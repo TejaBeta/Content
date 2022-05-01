@@ -47,6 +47,10 @@
   ],
   "projectInfo": [
     {
+      "url": "https://github.com/TejaBeta/nft-generator",
+      "title": "nft-generator"
+    },
+    {
       "url": "https://github.com/hayorov/helm-gcs",
       "title": "helm-gcs"
     },
