@@ -1,9 +1,9 @@
 {
-  "intro": "I focus on running scalable infrastructure in Google Cloud using modern cloud-native architecture patterns.",
+  "intro": "Over a decade of experience in working with different technologies.</br> I focus on running scalable infrastructure in Google Cloud using modern cloud-native architecture patterns.</br> I enjoy addressing difficult technical challanges.",
   "careerInfo": [
      {
       "time": "Jan, 2021",
-      "company": "Gumtree(Former eBay Classifieds Group)",
+      "company": "Gumtree",
       "Type": "Job",
       "Description": "",
       "title": "Site Reliability Engineer"
