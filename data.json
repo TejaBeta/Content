@@ -1,10 +1,9 @@
 {
-  "intro": "People say I talk a lot 🤷‍♂️. I love programming 🖥, travelling 🚂, exploring new places 🌍, new cuisines 🍜, and music 🎶",
-  "end": "Appreciate your valuable time, if you have anything to say feel free to drop a message. I really like people who tell jokes and talk about science.",
+  "intro": "I focus on running scalable infrastructure in Google Cloud using modern cloud-native architecture patterns.",
   "careerInfo": [
      {
       "time": "Jan, 2021",
-      "company": "eBay Classifieds Group",
+      "company": "Gumtree(Former eBay Classifieds Group)",
       "Type": "Job",
       "Description": "",
       "title": "Site Reliability Engineer"
@@ -47,36 +46,19 @@
   ],
   "projectInfo": [
     {
-      "url": "https://github.com/TejaBeta/nft-generator",
-      "title": "nft-generator"
-    },
-    {
       "url": "https://github.com/hayorov/helm-gcs",
       "title": "helm-gcs"
     },
     {
       "url": "https://github.com/TejaBeta/kubectl-istiolog",
       "title": "kubectl-istiolog"
-    },
-    {
-      "url": "https://github.com/TejaBeta/release-stats",
-      "title": "release-stats"
-    },
-    {
-      "url": "https://github.com/TejaBeta/kubectl-ttl",
-      "title": "kubectl-ttl"
-    },
-    {
-      "url": "https://github.com/TejaBeta/kopy",
-      "title": "Kopy"
     }
   ],
 
   "techStack": {
     "languages": [
       "GoLang",
-      "Shell Script",
-      "Python"
+      "Bash"
     ],
     "technologies": [
       "Kubernetes",
@@ -88,7 +70,8 @@
       "GCP",
       "AWS",
       "OpenStack",
-      "HAProxy"
+      "HAProxy",
+      "Postgres"
     ]
   }
 }
