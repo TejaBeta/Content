@@ -1,6 +1,13 @@
 {
   "intro": "I focus on running scalable infrastructure in Google Cloud using modern cloud-native architecture patterns.",
   "careerInfo": [
+    {
+      "time": "Feb, 2023",
+      "company": "Gumtree",
+      "Type": "Job",
+      "Description": "",
+      "title": "Senior Site Reliability Engineer"
+    },
      {
       "time": "Jan, 2021",
       "company": "Gumtree",
